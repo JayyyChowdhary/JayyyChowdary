@@ -1,33 +1,44 @@
-# 👋 Hello! I'm Jayanth Chowdary – Cyber Security Enthusiast 🔐
+# Hey there! 👋 I'm Jayanth – Cyber Security Engineer 🔐
 
-💼 **Aspiring Cyber Security Professional | Ethical Hacker | Security Automation Engineer**
+I'm a passionate and curious cybersecurity enthusiast with hands-on experience in securing networks, analyzing vulnerabilities, and automating security tasks. Whether it's scanning for threats, scripting solutions, or learning the latest defense tactics, I’m always exploring ways to build safer and smarter systems!
 
-🔭 Currently working on:
-- Vulnerability assessments and penetration testing
-- Network security monitoring and incident response
-- Automating security workflows using Python and Bash scripts
+💼 **A bit about me:**
+- Bachelor’s in Computer Science & Engineering (Cyber Security) 🎓
+- Part-time Cybersecurity Analyst at ASTHETHIC REJUVE 🏥
 
-🌱 Learning:
-- Offensive security techniques and ethical hacking
-- Security tools like Metasploit, Wireshark, and Burp Suite
-- Cloud security best practices and compliance frameworks
 
-👯 Looking to collaborate on:
-- Open-source security tools
-- Threat detection and mitigation projects
-- Security awareness training resources
+💻 **What I’m working on:**
+- Network security simulations to spot vulnerabilities
+- Automating security tasks using Python and Bash
+- Penetration testing on web apps using Nessus, OWASP ZAP, and more
+- Monitoring network traffic using Wireshark filters
 
-💬 Ask me about:
-- Security testing methodologies
-- Python and Bash scripting for automation
-- Network protocols, encryption, and access control
+🌱 **Learning & growing:**
+- Offensive security tactics and penetration testing methods
+- Cloud security frameworks across AWS, Azure, and GCP
+- Encryption technologies and advanced threat detection
 
-📫 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/Jayanth chowdary/)  
-- [GitHub](https://github.com/your-username)  
-- Email: Gonuguntlajayanth123@gmail.com
+🚀 **Projects I’ve built or contributed to:**
+- 🔍 **Network Security Simulation** – A lab environment to practice firewalls, patching, and incident response
+- 🛡 **Vulnerability Assessment on Web Apps** – Detecting and fixing SQL Injection, XSS, CSRF flaws
+- 📊 **Network Traffic Analysis** – Using Wireshark to uncover suspicious activity and malware patterns
 
-⚡ Fun fact:
-I believe security is not just about tools, it’s about mindset—and continuous learning is the best defense!
+📜 **Certifications:**
+- ✅ Ethical Hacking Online Workshop | InfySkill
+- ✅ Introduction to Cyber Security | Cisco
+- ✅ Networking for Beginner | Fire Shark
+- ✅ Digital Forensics Essentials | EC-Council
+
+🏅 **Awards:**
+- 🥇 Advent of Cyber 2023 | TryHackMe – Completed a 25-day hands-on cybersecurity challenge
+
+📫 **Let’s connect!**
+- [LinkedIn](https://www.linkedin.com/in/jayanth-chowdary-505b17296/)  
+- [GitHub](https://github.com/Jayyy-chowdary)  
+- 📧 Gonuguntlajayanth123@gmail.com
+
+⚡ **Fun fact:**  
+I once led an NCC team, building strong leadership skills—and now I’m bringing that same passion to securing networks and systems!
 
 ---
+
